@@ -1,0 +1,6 @@
+NEW DELHI,Capital of India
+KELVIN,S.I. unit of Temperature
+JUPITER,Largest planet of the solar system
+ZEUS,Greek god of thunder
+JEFF BEZOS,CEO of Amazon
+SLUMDOG MILLIONAIRE,A.R.Rahman won oscars for this film
